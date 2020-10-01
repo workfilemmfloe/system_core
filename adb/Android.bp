@@ -405,6 +405,7 @@ cc_library_static {
                 "daemon/transport_qemu.cpp",
                 "daemon/usb.cpp",
                 "daemon/usb_ffs.cpp",
+                "daemon/usb_legacy.cpp",
             ]
         },
         recovery: {
